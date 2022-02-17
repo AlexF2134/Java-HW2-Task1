@@ -11,7 +11,7 @@
         int milePrice = 20;
 
         int bonusMiles = (ticketPrice / milePrice);
-        System.out.println(bonus);
+        System.out.println(bonusMiles);
      }
     }
 
