@@ -1,4 +1,4 @@
-Задача 1  
+#Задача 1  
 
 
 
@@ -13,4 +13,4 @@
     }
     }
 
-https://github.com/AlexF2134/Java-HW2-Task1.git
+#Задача 2
