@@ -6,7 +6,7 @@ public class Main {
         int ticketPrice = 2_000;
         int milePrice = 20;
 
-        int bonus = (ticketPrice / milePrice);
-        System.out.println(bonus);
+        int bonusMiles = (ticketPrice / milePrice);
+        System.out.println(bonusMiles);
     }
 }
