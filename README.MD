@@ -1,4 +1,4 @@
-#Задача 1  
+Задание 1. Мили
 
 
 
@@ -10,7 +10,7 @@
 
         int bonus = (ticketPrice / milePrice);
         System.out.println(bonus);
-    }
+     }
     }
 
-#Задача 2
+
